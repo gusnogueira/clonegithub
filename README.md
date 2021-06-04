@@ -5,7 +5,7 @@
 #### Atualmente o projeto conta com duas telas principais, onde a primeira representa o "Overview" sobre o perfil em questão e o segundo mostra a listagem dos repositórios deste usuário. Além das telas principais, clicando sobre o nome do repositório haverá o direcionamento para uma página mais simples que possui a funcionalidade de direcionar para o repositório no site do github.
 #### O projeto também conta com um darkmode, o qual pode ser acessado mediante clique no logo do github na barra superior.
 
-#### O projeto foi desenvolvido todo em Typescript e foram usadas diversas bibliotecas, como react-icons, styled components e recharts.
+#### O projeto foi desenvolvido todo em Typescript e foram usadas algumas bibliotecas, como react-icons, styled components e recharts.
 
 ## Utilização:
 
