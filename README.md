@@ -1,4 +1,6 @@
+<p align="center">
 ![Video Clone Github](https://github.com/gusnogueira/clonegithub/blob/main/Clone%20Github%20-%20CVC%20CORP%20-%20Google%20Chrome%202021-06-04%2013-51-03.gif)
+</p>
 
 # Este é um projeto cujo objetivo é replicar a interface do github. 
 
