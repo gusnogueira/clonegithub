@@ -2,7 +2,7 @@
   <img src="https://github.com/gusnogueira/clonegithub/blob/main/Clone%20Github%20-%20CVC%20CORP%20-%20Google%20Chrome%202021-06-04%2013-51-03.gif"/>
 </p>
 
-# Este é um projeto cujo objetivo é replicar a interface do github. 
+## Este é um projeto cujo objetivo é replicar a interface do github. 
 
 #### Atualmente o projeto conta com duas telas principais, onde a primeira representa o "Overview" sobre o perfil em questão e o segundo mostra a listagem dos repositórios deste usuário. Além das telas principais, clicando sobre o nome do repositório haverá o direcionamento para uma página mais simples que possui a funcionalidade de direcionar para o repositório no site do github.
 #### O projeto também conta com um darkmode, o qual pode ser acessado mediante clique no logo do github na barra superior.
